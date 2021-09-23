@@ -1,0 +1,2 @@
+class ImpossibleExpressionException(Exception):
+    pass

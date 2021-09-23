@@ -1,0 +1,2 @@
+class ExpressionMistakeException(Exception):
+    pass
